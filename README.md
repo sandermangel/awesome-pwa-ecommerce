@@ -10,7 +10,7 @@
 - [Asphalth Gold](https://www.asphaltgold.com/en/) (Angular Storefront & Magento 2)
 
 ### Misc. retail
-- [1-800-flowers](http://1-800-flowers.com/)
+- [1-800-flowers](http://1-800-flowers.com/) (React Storefront & Bespoke)
 
 ## Open Source PWA solutions for Ecommerce
 An overview of repositories with Open Source PWA solutions for Ecommerce
