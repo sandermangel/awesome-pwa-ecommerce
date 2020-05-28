@@ -7,12 +7,12 @@
 ## By Vertical
 ### Fashion
 - [Zadig & Voltair](https://zadig-et-voltaire.com) (Vue Storefront & Magento 2)
-- [Asphalth Gold](https://www.asphaltgold.com/en/) (Angular & Magento 2)
+- [Asphalth Gold](https://www.asphaltgold.com/en/) (Angular Storefront & Magento 2)
 
 ## Open Source PWA solutions for Ecommerce
 An overview of repositories with Open Source PWA solutions for Ecommerce
 
-- [ShopwarePWA](https://github.com/DivanteLtd/shopware-pwa)
+- [Shopware PWA](https://github.com/DivanteLtd/shopware-pwa)
 - [Vue Storefront](https://github.com/DivanteLtd/vue-storefront)
 - [React Storefront](https://github.com/react-storefront-community/react-storefront)
 - [Magento PWA Studio](https://github.com/magento/pwa-studio)
