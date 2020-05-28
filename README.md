@@ -12,12 +12,12 @@
 ## Open Source PWA solutions for Ecommerce
 An overview of repositories with Open Source PWA solutions for Ecommerce
 
-[ShopwarePWA](https://github.com/DivanteLtd/shopware-pwa)
-[Vue Storefront](https://github.com/DivanteLtd/vue-storefront)
-[React Storefront](https://github.com/react-storefront-community/react-storefront)
-[Magento PWA Studio](https://github.com/magento/pwa-studio)
-[Deity Falcon](https://github.com/deity-io/falcon)
-[ScandiPWA](https://github.com/scandipwa)
+- [ShopwarePWA](https://github.com/DivanteLtd/shopware-pwa)
+- [Vue Storefront](https://github.com/DivanteLtd/vue-storefront)
+- [React Storefront](https://github.com/react-storefront-community/react-storefront)
+- [Magento PWA Studio](https://github.com/magento/pwa-studio)
+- [Deity Falcon](https://github.com/deity-io/falcon)
+- [ScandiPWA](https://github.com/scandipwa)
 
 ## Closed Source PWA solutions for Ecommerce
 An overview of websites with Closed Source PWA solutions for Ecommerce
