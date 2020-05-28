@@ -2,6 +2,8 @@
 
 > A collection of awesome cases and technologies around PWA in Ecommerce
 
+*Contribute to the collection by submitting a pull request*
+
 ## By Vertical
 ### Fashion
 - [Zadig & Voltair](https://zadig-et-voltaire.com) (Vue Storefront & Magento 2)
