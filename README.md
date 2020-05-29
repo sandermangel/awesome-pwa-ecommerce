@@ -62,7 +62,7 @@
 
 ### Living
 - [Klebefieber](https://www.klebefieber.de/) (Vue Storefront & Magento)
-- [Annie Selke](https://annieselke.com/) (React Storefront & )
+- [Annie Selke](https://annieselke.com/) (React Storefront & SAP Hybris)
 - [Alma Green Design](https://www.almagreendesign.com/) (Vue Storefront & Magento)
 - [Dear Sam](https://dearsam.com/en) (Vue Storefront & Magento)
 
@@ -110,6 +110,11 @@
 - [UK Meds](https://wearejh.com/case-study/magento-performance-redefined-via-progressive-web-app/)
 - [Wonect](https://www.vuestorefront.io/wonect-case-study/)
 - [Rooted Objects](https://www.vuestorefront.io/rootedobjects-case-study/)
+- [Annie Selke] (https://www.moovweb.com/annie-selke-outranks-amazon-instant-ecommerce-pwa/)
+- [Planet Blue] (https://www.moovweb.com/planetblue-instant-ecommerce-website-lifts-revenue/)
+- [Shoe Carnival] (https://www.moovweb.com/shoecarnival-instant-ecommerce-website-boosts-revenue-40-percent/)
+- [1-800-Flowers] (https://www.moovweb.com/1800flowers-boost-conversions-wins-market-share/)
+- [Akira] (https://www.moovweb.com/akira-ecommerce-progressive-web-app-500ms-loads/)
 
 ## Open Source PWA solutions for Ecommerce
 An overview of repositories with Open Source PWA solutions for Ecommerce
