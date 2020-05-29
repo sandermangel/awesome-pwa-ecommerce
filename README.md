@@ -96,6 +96,8 @@
 - [NY Vape Shop](https://nyvapeshop.com/) (Vue Storefront & Magento)
 
 ## Articles
+- [All About PWA And How They Can Benefit Your E-commerce Business](https://medium.com/@audrey2zack/all-about-pwa-and-how-they-can-benefit-your-e-commerce-business-508aa63f6f92)
+- [Progressive Web App: Why E-commerce Merchants Should Adopt It](https://www.semrush.com/blog/progressive-web-app-ecommerce-merchants-should-adopt/)
 
 ## Case Studies
 [Kubota](https://www.vuestorefront.io/kubota-case-study/)
