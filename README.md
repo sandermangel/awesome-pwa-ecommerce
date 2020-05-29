@@ -5,33 +5,33 @@
 *Contribute to the collection by submitting a pull request*
 
 Index
-* PWA stores by vertical
-  * Fashion
-  * DIY, Garden and Hobby
-  * Misc. retail
-* Articles
-* Case Studies
-* Open Source PWA solutions for Ecommerce
-* Closed Source PWA solutions for Ecommerce
+* [PWA stores by vertical](#by-vertical)
+  * [Fashion](#fashion)
+  * [DIY, Garden and Hobby](#diy)
+  * [Misc. retail](#misc)
+* [Articles](#articles)
+* [Case Studies](#case-studies)
+* [Open Source PWA solutions for Ecommerce](#open-source)
+* [Closed Source PWA solutions for Ecommerce](#closed-source)
 
-## PWA stores by vertical
-### Fashion
+## [PWA stores by vertical]{#by-vertical}
+### [Fashion]{#fashion}
 - [Zadig & Voltair](https://zadig-et-voltaire.com) (Vue Storefront & Magento 2)
 - [Asphalth Gold](https://www.asphaltgold.com/en/) (Angular Storefront & Magento 2)
 - [Kashiyama 1927](https://kashiyama1927.com/) (PWA Studio & Magento 2)
 - [Roeckl](https://www.roeckl.com/) (PWA Studio & Magento 2)
 
-### DIY, Garden and Hobby
+### [DIY, Garden and Hobby]{#diy}
 - [Selco Builders Warehouse](https://www.selcobw.com/) (PWA Studio & Magento 2)
 
-### Misc. retail
+### [Misc. retail]{#misc}
 - [1-800-flowers](http://1-800-flowers.com/) (React Storefront & Bespoke)
 
-## Articles
+## [Articles]{#articles}
 
-## Case Studies
+## [Case Studies]{#case-studies}
 
-## Open Source PWA solutions for Ecommerce
+## [Open Source PWA solutions for Ecommerce]{#open-source}
 An overview of repositories with Open Source PWA solutions for Ecommerce
 
 - [Shopware PWA](https://github.com/DivanteLtd/shopware-pwa)
@@ -41,6 +41,6 @@ An overview of repositories with Open Source PWA solutions for Ecommerce
 - [Deity Falcon](https://github.com/deity-io/falcon)
 - [ScandiPWA](https://github.com/scandipwa)
 
-## Closed Source PWA solutions for Ecommerce
+## [Closed Source PWA solutions for Ecommerce]{#closed-source}
 An overview of websites with Closed Source PWA solutions for Ecommerce
 
