@@ -4,7 +4,17 @@
 
 *Contribute to the collection by submitting a pull request*
 
-## By Vertical
+Index
+* PWA stores by vertical
+  * Fashion
+  * DIY, Garden and Hobby
+  * Misc. retail
+* Articles
+* Case Studies
+* Open Source PWA solutions for Ecommerce
+* Closed Source PWA solutions for Ecommerce
+
+## PWA stores by vertical
 ### Fashion
 - [Zadig & Voltair](https://zadig-et-voltaire.com) (Vue Storefront & Magento 2)
 - [Asphalth Gold](https://www.asphaltgold.com/en/) (Angular Storefront & Magento 2)
@@ -16,6 +26,10 @@
 
 ### Misc. retail
 - [1-800-flowers](http://1-800-flowers.com/) (React Storefront & Bespoke)
+
+## Articles
+
+## Case Studies
 
 ## Open Source PWA solutions for Ecommerce
 An overview of repositories with Open Source PWA solutions for Ecommerce
@@ -29,3 +43,4 @@ An overview of repositories with Open Source PWA solutions for Ecommerce
 
 ## Closed Source PWA solutions for Ecommerce
 An overview of websites with Closed Source PWA solutions for Ecommerce
+
