@@ -103,6 +103,7 @@
 ## Articles
 - [All About PWA And How They Can Benefit Your E-commerce Business](https://medium.com/@audrey2zack/all-about-pwa-and-how-they-can-benefit-your-e-commerce-business-508aa63f6f92)
 - [Progressive Web App: Why E-commerce Merchants Should Adopt It](https://www.semrush.com/blog/progressive-web-app-ecommerce-merchants-should-adopt/)
+- [Progressive Web Apps: the Golden Goose for e-commerce](https://medium.com/deity-io/progressive-web-apps-the-golden-goose-for-e-commerce-a8374d48754e)
 
 ## Case Studies
 [Kubota](https://www.vuestorefront.io/kubota-case-study/)
