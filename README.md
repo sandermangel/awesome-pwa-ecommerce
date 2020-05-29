@@ -8,6 +8,11 @@
 ### Fashion
 - [Zadig & Voltair](https://zadig-et-voltaire.com) (Vue Storefront & Magento 2)
 - [Asphalth Gold](https://www.asphaltgold.com/en/) (Angular Storefront & Magento 2)
+- [Kashiyama 1927](https://kashiyama1927.com/) (PWA Studio & Magento 2)
+- [Roeckl](https://www.roeckl.com/) (PWA Studio & Magento 2)
+
+### DIY, Garden and Hobby
+- [Selco Builders Warehouse](https://www.selcobw.com/) (PWA Studio & Magento 2)
 
 ### Misc. retail
 - [1-800-flowers](http://1-800-flowers.com/) (React Storefront & Bespoke)
