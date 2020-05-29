@@ -5,14 +5,14 @@
 *Contribute to the collection by submitting a pull request*
 
 Index
-* [PWA stores by vertical](#by-vertical)
+* [PWA stores by vertical](#pwa-stores-by-vertical)
   * [Fashion](#fashion)
-  * [DIY, Garden and Hobby](#diy)
-  * [Misc. retail](#misc)
+  * [DIY, Garden and Hobby](#diy-garden-and-hobby)
+  * [Misc. retail](#misc-retail)
 * [Articles](#articles)
 * [Case Studies](#case-studies)
-* [Open Source PWA solutions for Ecommerce](#open-source)
-* [Closed Source PWA solutions for Ecommerce](#closed-source)
+* [Open Source PWA solutions for Ecommerce](#open-source-pwa-solutions-for-ecommerce)
+* [Closed Source PWA solutions for Ecommerce](#closed-source-pwa-solutions-for-ecommerce)
 
 ## PWA stores by vertical
 ### Fashion
