@@ -26,10 +26,13 @@
 - [Asphalth Gold](https://www.asphaltgold.com/en/) (Angular Storefront & Magento 2)
 - [Kashiyama 1927](https://kashiyama1927.com/) (PWA Studio & Magento 2)
 - [Roeckl](https://www.roeckl.com/) (PWA Studio & Magento 2)
+- [Planet Blue](https://shopplanetblue.com/) (React Storefront & )
 - [Tally Weijl](https://www.tally-weijl.com/) (Vue Storefront & Magento 2)
 - [Kubota](https://kubotastore.pl/) (Vue Storefront & Magento 2)
 - [The Suit Depot](https://thesuitdepot.com/) (Vue Storefront & Magento 2)
 - [Special Milano](https://www.specialmilano.com/) (Vue Storefront & Magento 2)
+- [Shoe Carnival](https://www.shoecarnival.com/) (React Storefront & )
+- [Akira](https://www.shopakira.com/) (React Storefront & )
 - [Malianta](https://www.malianta.com/) (Vue Storefront & Magento 2)
 - [Peregrine Clothing](https://www.peregrineclothing.co.uk/) (Vue Storefront & Magento 2)
 - [Les Girls Les Boys](https://lesgirlslesboys.com/) (Vue Storefront & Magento 2)
@@ -57,13 +60,14 @@
 
 ### Living
 - [Klebefieber](https://www.klebefieber.de/) (Vue Storefront & Magento 2)
+- [Annie Selke](https://annieselke.com/) (React Storefront & )
 - [Alma Green Design](https://www.almagreendesign.com/) (Vue Storefront & Magento 2)
 - [Dear Sam](https://dearsam.com/en) (Vue Storefront & Magento 2)
 
 ### DIY, Garden and Hobby
 - [Selco Builders Warehouse](https://www.selcobw.com/) (PWA Studio & Magento 2)
 - [DeWalt Shelving](https://dewaltshelving.com/) (Vue Storefront & Magento 2)
-- [Garten &  Freizeit](https://www.garten-und-freizeit.at/) (Vue Storefront & Magento 2)
+- [Garten & Freizeit](https://www.garten-und-freizeit.at/) (Vue Storefront & Magento 2)
 
 ### Healthcare & Beauty
 - [Klikis](https://klikis.com/) (Vue Storefront & Magento 2)
