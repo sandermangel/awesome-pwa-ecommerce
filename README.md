@@ -4,7 +4,6 @@
 
 *Contribute to the collection by submitting a pull request*
 
-Index
 * [PWA stores by vertical](#pwa-stores-by-vertical)
   * [Fashion](#fashion)
   * [DIY, Garden and Hobby](#diy-garden-and-hobby)
@@ -23,6 +22,9 @@ Index
 
 ### DIY, Garden and Hobby
 - [Selco Builders Warehouse](https://www.selcobw.com/) (PWA Studio & Magento 2)
+
+### B2B
+- [Gastro Hero](https://www.gastro-hero.de/) (Vue Storefront & Magento 1)
 
 ### Misc. retail
 - [1-800-flowers](http://1-800-flowers.com/) (React Storefront & Bespoke)
