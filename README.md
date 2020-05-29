@@ -106,10 +106,10 @@
 - [Progressive Web Apps: the Golden Goose for e-commerce](https://medium.com/deity-io/progressive-web-apps-the-golden-goose-for-e-commerce-a8374d48754e)
 
 ## Case Studies
-[Kubota](https://www.vuestorefront.io/kubota-case-study/)
-[UK Meds](https://wearejh.com/case-study/magento-performance-redefined-via-progressive-web-app/)
-[Wonect](https://www.vuestorefront.io/wonect-case-study/)
-[Rooted Objects](https://www.vuestorefront.io/rootedobjects-case-study/)
+- [Kubota](https://www.vuestorefront.io/kubota-case-study/)
+- [UK Meds](https://wearejh.com/case-study/magento-performance-redefined-via-progressive-web-app/)
+- [Wonect](https://www.vuestorefront.io/wonect-case-study/)
+- [Rooted Objects](https://www.vuestorefront.io/rootedobjects-case-study/)
 
 ## Open Source PWA solutions for Ecommerce
 An overview of repositories with Open Source PWA solutions for Ecommerce
