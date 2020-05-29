@@ -22,78 +22,82 @@
 
 ## PWA stores by vertical
 ### Fashion
-- [Zadig & Voltair](https://zadig-et-voltaire.com) (Vue Storefront & Magento 2)
-- [Asphalth Gold](https://www.asphaltgold.com/en/) (Angular Storefront & Magento 2)
-- [Kashiyama 1927](https://kashiyama1927.com/) (PWA Studio & Magento 2)
-- [Roeckl](https://www.roeckl.com/) (PWA Studio & Magento 2)
+- [Zadig & Voltair](https://zadig-et-voltaire.com) (Vue Storefront & Magento)
+- [Asphalth Gold](https://www.asphaltgold.com/en/) (Angular Storefront & Magento)
+- [Kashiyama 1927](https://kashiyama1927.com/) (PWA Studio & Magento)
+- [Roeckl](https://www.roeckl.com/) (PWA Studio & Magento)
 - [Planet Blue](https://shopplanetblue.com/) (React Storefront & )
-- [Tally Weijl](https://www.tally-weijl.com/) (Vue Storefront & Magento 2)
-- [Kubota](https://kubotastore.pl/) (Vue Storefront & Magento 2)
-- [The Suit Depot](https://thesuitdepot.com/) (Vue Storefront & Magento 2)
-- [Special Milano](https://www.specialmilano.com/) (Vue Storefront & Magento 2)
+- [Tally Weijl](https://www.tally-weijl.com/) (Vue Storefront & Magento)
+- [Kubota](https://kubotastore.pl/) (Vue Storefront & Magento)
+- [The Suit Depot](https://thesuitdepot.com/) (Vue Storefront & Magento)
+- [Special Milano](https://www.specialmilano.com/) (Vue Storefront & Magento)
 - [Shoe Carnival](https://www.shoecarnival.com/) (React Storefront & )
 - [Akira](https://www.shopakira.com/) (React Storefront & )
-- [Malianta](https://www.malianta.com/) (Vue Storefront & Magento 2)
-- [Peregrine Clothing](https://www.peregrineclothing.co.uk/) (Vue Storefront & Magento 2)
-- [Les Girls Les Boys](https://lesgirlslesboys.com/) (Vue Storefront & Magento 2)
-- [Street supply](https://streetsupply.pl/) (Vue Storefront & Magento 2)
-- [Butcher](https://www.butcherofblue.com/) (Vue Storefront & Magento 2)
+- [Malianta](https://www.malianta.com/) (Vue Storefront & Magento)
+- [Peregrine Clothing](https://www.peregrineclothing.co.uk/) (Vue Storefront & Magento)
+- [Les Girls Les Boys](https://lesgirlslesboys.com/) (Vue Storefront & Magento)
+- [Street supply](https://streetsupply.pl/) (Vue Storefront & Magento)
+- [Butcher](https://www.butcherofblue.com/) (Vue Storefront & Magento)
 
 ### Sports & Outdoor
-- [Opensky](https://www.oneopensky.dk/) (Vue Storefront & Magento 2)
-- [Flyn](https://flynwetsuits.com/) (Vue Storefront & Magento 2)
-- [Toprank](https://shop.toprank.com/) (Vue Storefront & Magento 2)
+- [Opensky](https://www.oneopensky.dk/) (Vue Storefront & Magento)
+- [Flyn](https://flynwetsuits.com/) (Vue Storefront & Magento)
+- [Toprank](https://shop.toprank.com/) (Vue Storefront & Magento)
+- [Terrang](https://www.terrang.fr/) (Front-Commerce & Magento)
 
 ### Jewelry & Accessories
-- [La Nature](https://lanature.ru/) (Vue Storefront & Magento 2)
-- [The Jewel In Giving](https://www.thejewelingiving.com/) (Vue Storefront & Magento 2)
-- [Peter Jackson](https://www.peterjackson.co.uk/) (Vue Storefront & Magento 2)
+- [La Nature](https://lanature.ru/) (Vue Storefront & Magento)
+- [The Jewel In Giving](https://www.thejewelingiving.com/) (Vue Storefront & Magento)
+- [Peter Jackson](https://www.peterjackson.co.uk/) (Vue Storefront & Magento)
 
 ### Foodwares
-- [Danone](https://www.danonedirect.ru/) (Vue Storefront & Magento 2)
-- [Bare BLends](https://bareblends.com.au/) (Vue Storefront & Magento 2)
-- [Major Rum](https://www.majorrum.com/) (Vue Storefront & Magento 2)
-- [Cucina Barilla](https://www.cucinabarilla.it/it-IT) (Vue Storefront & Magento 2)
-- [Maxxium](https://maxxium.ru/) (Vue Storefront & Magento 2)
-- [Lakrits](https://lakritsroten.se/) (Vue Storefront & Magento 2)
-- [Barfers Wellfood](https://barfers-wellfood.de/) (Vue Storefront & Magento 2)
+- [Danone](https://www.danonedirect.ru/) (Vue Storefront & Magento)
+- [Bare BLends](https://bareblends.com.au/) (Vue Storefront & Magento)
+- [Major Rum](https://www.majorrum.com/) (Vue Storefront & Magento)
+- [Cucina Barilla](https://www.cucinabarilla.it/it-IT) (Vue Storefront & Magento)
+- [Maxxium](https://maxxium.ru/) (Vue Storefront & Magento)
+- [Lakrits](https://lakritsroten.se/) (Vue Storefront & Magento)
+- [Barfers Wellfood](https://barfers-wellfood.de/) (Vue Storefront & Magento)
 
 ### Living
-- [Klebefieber](https://www.klebefieber.de/) (Vue Storefront & Magento 2)
+- [Klebefieber](https://www.klebefieber.de/) (Vue Storefront & Magento)
 - [Annie Selke](https://annieselke.com/) (React Storefront & )
-- [Alma Green Design](https://www.almagreendesign.com/) (Vue Storefront & Magento 2)
-- [Dear Sam](https://dearsam.com/en) (Vue Storefront & Magento 2)
+- [Alma Green Design](https://www.almagreendesign.com/) (Vue Storefront & Magento)
+- [Dear Sam](https://dearsam.com/en) (Vue Storefront & Magento)
 
 ### DIY, Garden and Hobby
-- [Selco Builders Warehouse](https://www.selcobw.com/) (PWA Studio & Magento 2)
-- [DeWalt Shelving](https://dewaltshelving.com/) (Vue Storefront & Magento 2)
-- [Garten & Freizeit](https://www.garten-und-freizeit.at/) (Vue Storefront & Magento 2)
+- [Selco Builders Warehouse](https://www.selcobw.com/) (PWA Studio & Magento)
+- [DeWalt Shelving](https://dewaltshelving.com/) (Vue Storefront & Magento)
+- [Garten & Freizeit](https://www.garten-und-freizeit.at/) (Vue Storefront & Magento)
 
 ### Healthcare & Beauty
-- [UK Meds](https://www.ukmeds.co.uk/) (PWA Studio & Magento 2)
-- [Klikis](https://klikis.com/) (Vue Storefront & Magento 2)
-- [DW Shop](https://dwshop.pl/) (Vue Storefront & Magento 2)
-- [Instant Ecare](https://www.instantecare.com/) (Vue Storefront & Magento 2)
-- [Golden Scent](https://www.goldenscent.com/en/) (Vue Storefront & Magento 2)
-- [Unity Freedom](https://unityfreedom.com/) (Vue Storefront & Magento 2)
-- [Meevo](https://www.meevo.de/) (Vue Storefront & Magento 2)
+- [UK Meds](https://www.ukmeds.co.uk/) (PWA Studio & Magento)
+- [Klikis](https://klikis.com/) (Vue Storefront & Magento)
+- [Chaine Thermale Boutique](https://boutique.chainethermale.fr/)
+- [DW Shop](https://dwshop.pl/) (Vue Storefront & Magento)
+- [Instant Ecare](https://www.instantecare.com/) (Vue Storefront & Magento)
+- [Compagnie Des Spas](https://www.compagniedesspas.fr/) (Front-Commerce & ERP)
+- [Golden Scent](https://www.goldenscent.com/en/) (Vue Storefront & Magento)
+- [Unity Freedom](https://unityfreedom.com/) (Vue Storefront & Magento)
+- [Meevo](https://www.meevo.de/) (Vue Storefront & Magento)
 
 ### B2B
-- [Gastro Hero](https://www.gastro-hero.de/) (Vue Storefront & Magento 1)
-- [Dickies Work Gear](https://www.dickiesworkgear.com/) (Vue Storefront & Magento 2)
-- [Agregator Eat](https://agregatoreat.ru/) (Vue Storefront & Magento 2)
-- [Vendella](https://www.vendella.co.nz/) (Vue Storefront & Magento 2)
-- [Rak Distribution](https://www.rakdistribution.net/) (Vue Storefront & Magento 2)
-- [Kentaur](https://www.kentaur.com/uk) (Vue Storefront & Magento 2)
+- [Gastro Hero](https://www.gastro-hero.de/) (Vue Storefront & Magento)
+- [Dickies Work Gear](https://www.dickiesworkgear.com/) (Vue Storefront & Magento)
+- [Agregator Eat](https://agregatoreat.ru/) (Vue Storefront & Magento)
+- [Vendella](https://www.vendella.co.nz/) (Vue Storefront & Magento)
+- [Rak Distribution](https://www.rakdistribution.net/) (Vue Storefront & Magento)
+- [Kentaur](https://www.kentaur.com/uk) (Vue Storefront & Magento)
 
 ### Marketplaces
-- [Wonect](https://wonect.com/sg/) (Vue Storefront & Magento 2)
-- [Hulii](https://www.hulii.com/) (Vue Storefront & Magento 2)
-- [Parz](https://www.parz.com/) (Vue Storefront & Magento 2)
+- [Wonect](https://wonect.com/sg/) (Vue Storefront & Magento)
+- [Hulii](https://www.hulii.com/) (Vue Storefront & Magento)
+- [Parz](https://www.parz.com/) (Vue Storefront & Magento)
 
 ### Misc. retail
 - [1-800-flowers](http://1-800-flowers.com/) (React Storefront & Bespoke)
 - [NY Vape Shop](https://nyvapeshop.com/) (Vue Storefront & Magento)
+- [Auto Bernard](https://www.autobernard.com/) (Front-Commerce & Magento)
 
 ## Articles
 - [All About PWA And How They Can Benefit Your E-commerce Business](https://medium.com/@audrey2zack/all-about-pwa-and-how-they-can-benefit-your-e-commerce-business-508aa63f6f92)
@@ -117,4 +121,3 @@ An overview of repositories with Open Source PWA solutions for Ecommerce
 
 ## Closed Source PWA solutions for Ecommerce
 An overview of websites with Closed Source PWA solutions for Ecommerce
-
