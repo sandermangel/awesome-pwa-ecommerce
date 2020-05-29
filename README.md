@@ -38,6 +38,7 @@
 - [Les Girls Les Boys](https://lesgirlslesboys.com/) (Vue Storefront & Magento)
 - [Street supply](https://streetsupply.pl/) (Vue Storefront & Magento)
 - [Butcher](https://www.butcherofblue.com/) (Vue Storefront & Magento)
+- [Collegien Shop](https://en.collegien-shop.com/) (Front-Commerce & Magento)
 
 ### Sports & Outdoor
 - [Opensky](https://www.oneopensky.dk/) (Vue Storefront & Magento)
