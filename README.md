@@ -26,13 +26,13 @@
 - [Asphalth Gold](https://www.asphaltgold.com/en/) (Angular Storefront & Magento)
 - [Kashiyama 1927](https://kashiyama1927.com/) (PWA Studio & Magento)
 - [Roeckl](https://www.roeckl.com/) (PWA Studio & Magento)
-- [Planet Blue](https://shopplanetblue.com/) (React Storefront & )
+- [Planet Blue](https://shopplanetblue.com/) (React Storefront & Shopify)
 - [Tally Weijl](https://www.tally-weijl.com/) (Vue Storefront & Magento)
 - [Kubota](https://kubotastore.pl/) (Vue Storefront & Magento)
 - [The Suit Depot](https://thesuitdepot.com/) (Vue Storefront & Magento)
 - [Special Milano](https://www.specialmilano.com/) (Vue Storefront & Magento)
-- [Shoe Carnival](https://www.shoecarnival.com/) (React Storefront & )
-- [Akira](https://www.shopakira.com/) (React Storefront & )
+- [Shoe Carnival](https://www.shoecarnival.com/) (React Storefront & Salesforce Commerce Cloud)
+- [Akira](https://www.shopakira.com/) (React Storefront & Magento)
 - [Malianta](https://www.malianta.com/) (Vue Storefront & Magento)
 - [Peregrine Clothing](https://www.peregrineclothing.co.uk/) (Vue Storefront & Magento)
 - [Les Girls Les Boys](https://lesgirlslesboys.com/) (Vue Storefront & Magento)
@@ -96,7 +96,7 @@
 - [Parz](https://www.parz.com/) (Vue Storefront & Magento)
 
 ### Misc. retail
-- [1-800-flowers](http://1-800-flowers.com/) (React Storefront & Bespoke)
+- [1-800-flowers](http://1-800-flowers.com/) (React Storefront & Custom backend)
 - [NY Vape Shop](https://nyvapeshop.com/) (Vue Storefront & Magento)
 - [Auto Bernard](https://www.autobernard.com/) (Front-Commerce & Magento)
 
