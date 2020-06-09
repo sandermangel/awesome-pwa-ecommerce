@@ -17,6 +17,7 @@
   * [Misc. retail](#misc-retail)
 * [Articles](#articles)
 * [Case Studies](#case-studies)
+* [Technical resources & Study material](#technical-resources-study-material)
 * [Open Source PWA solutions for Ecommerce](#open-source-pwa-solutions-for-ecommerce)
 * [Closed Source PWA solutions for Ecommerce](#closed-source-pwa-solutions-for-ecommerce)
 
@@ -116,6 +117,8 @@
 - [Shoe Carnival](https://www.moovweb.com/shoecarnival-instant-ecommerce-website-boosts-revenue-40-percent/)
 - [1-800-Flowers](https://www.moovweb.com/1800flowers-boost-conversions-wins-market-share/)
 - [Akira](https://www.moovweb.com/akira-ecommerce-progressive-web-app-500ms-loads/)
+
+## Technical resources & Study material
 
 ## Open Source PWA solutions for Ecommerce
 An overview of repositories with Open Source PWA solutions for Ecommerce
