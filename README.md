@@ -40,6 +40,7 @@
 - [Street supply](https://streetsupply.pl/) (Vue Storefront & Magento)
 - [Butcher](https://www.butcherofblue.com/) (Vue Storefront & Magento)
 - [Collegien Shop](https://en.collegien-shop.com/) (Front-Commerce & Magento)
+- [Eleganza](https://www.eleganza-shop.com) (PWA Studio & Magento)
 
 ### Sports & Outdoor
 - [Opensky](https://www.oneopensky.dk/) (Vue Storefront & Magento)
