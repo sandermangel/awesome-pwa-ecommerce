@@ -121,9 +121,9 @@
 An overview of repositories with Open Source PWA solutions for Ecommerce
 
 - [Shopware PWA](https://github.com/DivanteLtd/shopware-pwa)
+- [Magento PWA Studio](https://github.com/magento/pwa-studio)
 - [Vue Storefront](https://github.com/DivanteLtd/vue-storefront)
 - [React Storefront](https://github.com/react-storefront-community/react-storefront)
-- [Magento PWA Studio](https://github.com/magento/pwa-studio)
 - [Deity Falcon](https://github.com/deity-io/falcon)
 - [ScandiPWA](https://github.com/scandipwa)
 
