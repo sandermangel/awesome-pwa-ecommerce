@@ -2,7 +2,7 @@
 
 > A collection of awesome cases and technologies around PWA in Ecommerce
 
-*Contribute to the collection by submitting a pull request or submit via https://airtable.com/shrRM5wDfJgfvLc61*
+*Contribute to the collection by submitting a pull request*
 
 * [PWA stores by vertical](#pwa-stores-by-vertical)
   * [Fashion](#fashion)
@@ -40,7 +40,6 @@
 - [Street supply](https://streetsupply.pl/) (Vue Storefront & Magento)
 - [Butcher](https://www.butcherofblue.com/) (Vue Storefront & Magento)
 - [Collegien Shop](https://en.collegien-shop.com/) (Front-Commerce & Magento)
-- [Eleganza](https://www.eleganza-shop.com) (PWA Studio & Magento)
 
 ### Sports & Outdoor
 - [Opensky](https://www.oneopensky.dk/) (Vue Storefront & Magento)
@@ -68,6 +67,7 @@
 - [Annie Selke](https://annieselke.com/) (React Storefront & SAP Hybris)
 - [Alma Green Design](https://www.almagreendesign.com/) (Vue Storefront & Magento)
 - [Dear Sam](https://dearsam.com/en) (Vue Storefront & Magento)
+- [Leifheit](https://www.leifheit.de/de-de/) (e2m storefront & SAP Commerce)
 
 ### DIY, Garden and Hobby
 - [Selco Builders Warehouse](https://www.selcobw.com/) (PWA Studio & Magento)
@@ -107,6 +107,7 @@
 - [All About PWA And How They Can Benefit Your E-commerce Business](https://medium.com/@audrey2zack/all-about-pwa-and-how-they-can-benefit-your-e-commerce-business-508aa63f6f92)
 - [Progressive Web App: Why E-commerce Merchants Should Adopt It](https://www.semrush.com/blog/progressive-web-app-ecommerce-merchants-should-adopt/)
 - [Progressive Web Apps: the Golden Goose for e-commerce](https://medium.com/deity-io/progressive-web-apps-the-golden-goose-for-e-commerce-a8374d48754e)
+- [PWA FAQ: 14 most common questions about Progressive Web Apps answered](https://medium.com/@mszklarski/pwa-faq-14-most-common-questions-about-progressive-web-apps-answered-d6af075910b0)
 
 ## Case Studies
 - [Kubota](https://www.vuestorefront.io/kubota-case-study/)
@@ -118,6 +119,7 @@
 - [Shoe Carnival](https://www.moovweb.com/shoecarnival-instant-ecommerce-website-boosts-revenue-40-percent/)
 - [1-800-Flowers](https://www.moovweb.com/1800flowers-boost-conversions-wins-market-share/)
 - [Akira](https://www.moovweb.com/akira-ecommerce-progressive-web-app-500ms-loads/)
+- [Leifheit](https://www.e-point.com/case-studies/how-pwas-improved-leifheits-m-commerce-experience/)
 
 ## Technical resources & Study material
 
@@ -135,3 +137,4 @@ An overview of repositories with Open Source PWA solutions for Ecommerce
 An overview of websites with Closed Source PWA solutions for Ecommerce
 
 - [Front-Commerce](https://www.front-commerce.com/)
+- [e2m storefront](https://e2m-storefront.com/)
