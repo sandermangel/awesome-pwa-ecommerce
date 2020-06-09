@@ -23,7 +23,7 @@
 
 ## PWA stores by vertical
 ### Fashion
-- [Zadig & Voltair](https://zadig-et-voltaire.com) (Vue Storefront & Magento)
+- [Zadig & Voltaire](https://zadig-et-voltaire.com) (Vue Storefront & Magento)
 - [Asphalth Gold](https://www.asphaltgold.com/en/) (Angular Storefront & Magento)
 - [Kashiyama 1927](https://kashiyama1927.com/) (PWA Studio & Magento)
 - [Roeckl](https://www.roeckl.com/) (PWA Studio & Magento)
