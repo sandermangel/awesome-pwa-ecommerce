@@ -2,7 +2,7 @@
 
 > A collection of awesome cases and technologies around PWA in Ecommerce
 
-*Contribute to the collection by submitting a pull request*
+*Contribute to the collection by submitting a pull request or submit via https://airtable.com/shrRM5wDfJgfvLc61*
 
 * [PWA stores by vertical](#pwa-stores-by-vertical)
   * [Fashion](#fashion)
