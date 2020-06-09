@@ -53,6 +53,7 @@
 
 ### Foodwares
 - [Danone](https://www.danonedirect.ru/) (Vue Storefront & Magento)
+- [The Whisky Barrel](https://www.thewhiskybarrel.com/) (PWA Studio & Magento)
 - [Bare BLends](https://bareblends.com.au/) (Vue Storefront & Magento)
 - [Major Rum](https://www.majorrum.com/) (Vue Storefront & Magento)
 - [Cucina Barilla](https://www.cucinabarilla.it/it-IT) (Vue Storefront & Magento)
