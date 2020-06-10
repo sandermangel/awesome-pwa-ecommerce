@@ -118,6 +118,7 @@
 - [Shoe Carnival](https://www.moovweb.com/shoecarnival-instant-ecommerce-website-boosts-revenue-40-percent/)
 - [1-800-Flowers](https://www.moovweb.com/1800flowers-boost-conversions-wins-market-share/)
 - [Akira](https://www.moovweb.com/akira-ecommerce-progressive-web-app-500ms-loads/)
+- [Betty Crocker Wake Lock Case Study](https://web.dev/betty-crocker/)
 
 ## Technical resources & Study material
 
@@ -135,3 +136,5 @@ An overview of repositories with Open Source PWA solutions for Ecommerce
 An overview of websites with Closed Source PWA solutions for Ecommerce
 
 - [Front-Commerce](https://www.front-commerce.com/)
+- [Frontastic.cloud](https://www.frontastic.cloud/)
+- [Mobsted.com](https://mobsted.com/)
