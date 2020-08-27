@@ -127,6 +127,7 @@
 - [Akira](https://www.moovweb.com/akira-ecommerce-progressive-web-app-500ms-loads/)
 - [Betty Crocker Wake Lock Case Study](https://web.dev/betty-crocker/)
 - [Leifheit](https://www.e-point.com/case-studies/how-pwas-improved-leifheits-m-commerce-experience)
+- [Uitgeverij Pluim](https://elgentos.nl/blog/first-pwa-deity-falcon-uitgeverij-pluim/)
 
 ## Technical resources & Study material
 
