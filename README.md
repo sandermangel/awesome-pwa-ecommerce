@@ -41,6 +41,7 @@
 - [Butcher](https://www.butcherofblue.com/) (Vue Storefront & Magento)
 - [Collegien Shop](https://en.collegien-shop.com/) (Front-Commerce & Magento)
 - [Eleganza](https://www.eleganza-shop.com) (PWA Studio & Magento)
+- [Loavies](https://www.loavies.com) (Vue (custom) & Magento)
 
 ### Sports & Outdoor
 - [Opensky](https://www.oneopensky.dk/) (Vue Storefront & Magento)
@@ -62,6 +63,7 @@
 - [Maxxium](https://maxxium.ru/) (Vue Storefront & Magento)
 - [Lakrits](https://lakritsroten.se/) (Vue Storefront & Magento)
 - [Barfers Wellfood](https://barfers-wellfood.de/) (Vue Storefront & Magento)
+- [Weingut](https://www.weingut-goeschl.at/) (Gatsby & Shopify)
 
 ### Living
 - [Klebefieber](https://www.klebefieber.de/) (Vue Storefront & Magento)
@@ -85,6 +87,8 @@
 - [Golden Scent](https://www.goldenscent.com/en/) (Vue Storefront & Magento)
 - [Unity Freedom](https://unityfreedom.com/) (Vue Storefront & Magento)
 - [Meevo](https://www.meevo.de/) (Vue Storefront & Magento)
+- [Cycle Care](https://cycle.care/) (Gatsby & Shopify)
+- [Flamingo](https://www.shopflamingo.com/) (Gatsby & custom/Stripe)
 
 ### B2B
 - [Gastro Hero](https://www.gastro-hero.de/) (Vue Storefront & Magento)
@@ -103,6 +107,7 @@
 - [1-800-flowers](http://1-800-flowers.com/) (React Storefront & Custom backend)
 - [NY Vape Shop](https://nyvapeshop.com/) (Vue Storefront & Magento)
 - [Auto Bernard](https://www.autobernard.com/) (Front-Commerce & Magento)
+- [Uitgeverij Pluim](https://www.uitgeverijpluim.nl/) (Deity & Magento)
 
 ## Articles
 - [All About PWA And How They Can Benefit Your E-commerce Business](https://medium.com/@audrey2zack/all-about-pwa-and-how-they-can-benefit-your-e-commerce-business-508aa63f6f92)
