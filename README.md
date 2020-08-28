@@ -48,6 +48,7 @@
 - [Flyn](https://flynwetsuits.com/) (Vue Storefront & Magento)
 - [Toprank](https://shop.toprank.com/) (Vue Storefront & Magento)
 - [Terrang](https://www.terrang.fr/) (Front-Commerce & Magento)
+- [Xercise4Less](https://www.xercise4less.co.uk/) (PWA Studio & Magento)
 
 ### Jewelry & Accessories
 - [La Nature](https://lanature.ru/) (Vue Storefront & Magento)
@@ -97,6 +98,7 @@
 - [Vendella](https://www.vendella.co.nz/) (Vue Storefront & Magento)
 - [Rak Distribution](https://www.rakdistribution.net/) (Vue Storefront & Magento)
 - [Kentaur](https://www.kentaur.com/uk) (Vue Storefront & Magento)
+- [Meka](https://www.meka.eu/fi/) (PWAStudio & Magento)
 
 ### Marketplaces
 - [Wonect](https://wonect.com/sg/) (Vue Storefront & Magento)
@@ -148,3 +150,6 @@ An overview of websites with Closed Source PWA solutions for Ecommerce
 - [Frontastic.cloud](https://www.frontastic.cloud/)
 - [Mobsted.com](https://mobsted.com/)
 - [e2m storefront](https://e2m-storefront.com/)
+
+## Credits
+Maintained by [Sander Mangel](https://www.linkedin.com/in/sandermangel/)
