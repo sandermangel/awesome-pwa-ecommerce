@@ -116,6 +116,7 @@
 - [Progressive Web App: Why E-commerce Merchants Should Adopt It](https://www.semrush.com/blog/progressive-web-app-ecommerce-merchants-should-adopt/)
 - [Progressive Web Apps: the Golden Goose for e-commerce](https://medium.com/deity-io/progressive-web-apps-the-golden-goose-for-e-commerce-a8374d48754e)
 - [PWA FAQ: 14 most common questions about Progressive Web Apps answered](https://medium.com/@mszklarski/pwa-faq-14-most-common-questions-about-progressive-web-apps-answered-d6af075910b0)
+- [PWA E-Commerce solutions compared (open-source)](https://medium.com/@bjoern.meyer/pwa-ecommerce-solutions-compared-83bb498433e9)
 
 ## Case Studies
 - [Kubota](https://www.vuestorefront.io/kubota-case-study/)
