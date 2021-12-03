@@ -42,6 +42,7 @@
 - [Collegien Shop](https://en.collegien-shop.com/) (Front-Commerce & Magento)
 - [Eleganza](https://www.eleganza-shop.com) (PWA Studio & Magento)
 - [Loavies](https://www.loavies.com) (Vue (custom) & Magento)
+- [mey story](https://www.meystory.com/) (Vue Storefront & Magento)
 
 ### Sports & Outdoor
 - [Opensky](https://www.oneopensky.dk/) (Vue Storefront & Magento)
