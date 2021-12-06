@@ -99,6 +99,7 @@
 - [Rak Distribution](https://www.rakdistribution.net/) (Vue Storefront & Magento)
 - [Kentaur](https://www.kentaur.com/uk) (Vue Storefront & Magento)
 - [Meka](https://www.meka.eu/fi/) (PWAStudio & Magento)
+- [GGM Gastro](https://www.ggmgastro.com/) (Vue Storefront & Magento)
 
 ### Marketplaces
 - [Wonect](https://wonect.com/sg/) (Vue Storefront & Magento)
