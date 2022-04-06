@@ -112,6 +112,7 @@
 - [NY Vape Shop](https://nyvapeshop.com/) (Vue Storefront & Magento)
 - [Auto Bernard](https://www.autobernard.com/) (Front-Commerce & Magento)
 - [Uitgeverij Pluim](https://www.uitgeverijpluim.nl/) (Deity & Magento)
+- [LiveMart Express Checkout](https://livemart-express-checkout-s4kibs4mi.vercel.app/) (LiveMart & Next.js)
 
 ## Articles
 - [All About PWA And How They Can Benefit Your E-commerce Business](https://medium.com/@audrey2zack/all-about-pwa-and-how-they-can-benefit-your-e-commerce-business-508aa63f6f92)
